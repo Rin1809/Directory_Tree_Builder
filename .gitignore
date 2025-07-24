@@ -157,3 +157,6 @@ package-lock.json
 
 # Specific config files to ignore
 Core/doc_tool_history.json
+
+
+structure_generator_config.json
